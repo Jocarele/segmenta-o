@@ -1,0 +1,4 @@
+This repository contains an activity from my university class. The main code was provided by my professor, 
+while the functions binariza, rotula, and rotula_arroz were implemented by me.
+
+The objective of the code is to identify the rice grains in the image "arroz.bmp" and draw squares around them.
